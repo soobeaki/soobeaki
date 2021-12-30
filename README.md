@@ -12,10 +12,10 @@
     <img src="https://img.shields.io/badge/thsrjs5@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
    <a href="https://lienkooky.notion.site/71bf521e9c6b4900820503425769197b" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-D08789?style=flat-square&logo=Notion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Resume-BB8378?style=flat-square&logo=Notion&logoColor=white"/>
   </a>
   <a href="https://lienkooky.tistory.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-E6CBCA?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Blog-D08789?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/>
   </a>
 </p>
 
