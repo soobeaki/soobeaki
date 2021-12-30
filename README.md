@@ -18,7 +18,6 @@
 
 
 <!-- 기술 소개 부분 -->  
-<br/>
 
 ### Skill
 
@@ -33,8 +32,10 @@
 <p>
  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white"/>
  <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat&logo=styled-components&logoColor=white"/><br/>
- <img src="https://img.shields.io/badge/Node-339933?style=flat&logo=node.js&logoColor=white"/><br/>
+ <img src="https://img.shields.io/badge/Node-339933?style=flat&logo=node.js&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/><br/>
  <img src="https://img.shields.io/badge/AWS-232F32?style=flat&logo=Amazon AWS&logoColor=white"/>
+ <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 </p>
 
 <strong>Tools</strong>
