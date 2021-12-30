@@ -23,7 +23,6 @@
  👋&nbsp; Hi there  I'm <b> frontend web developer</b> using React. ⚛️<br/>
    I want to be a developer who records steadily in the future. ✨<br />
  <br/>
- I like to record and share what I learned. ✨<br />
  I was attracted to realizing my imagination into reality. ✨<br />
  I value communication and feel rewarded for growing up with a team. ✨
 </p>
