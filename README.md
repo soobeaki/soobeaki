@@ -17,6 +17,7 @@
   
 - 👨‍💻   I'm <b> FrontEnd developer</b>.
 - ⚛️   Usually using React for programming.
+- 📝   If you're interested in me, please refer to my <a href="https://lienkooky.notion.site/71bf521e9c6b4900820503425769197b">resume</a>
 <!-- - 📝   Records, rather than memories.
 - 😸   Good words, good thoughts and good deeds.
 - 🛫   Life is a journey to be experienced, not a problem to be solved. -->
