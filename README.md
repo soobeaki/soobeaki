@@ -1,4 +1,4 @@
-제목 <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=ABOUT%20ME&fontSize=35&animation=fadeIn" /> 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=ABOUT%20ME&fontSize=35&animation=fadeIn" /> 
 
 <!-- HITS 부분 --> 
 
