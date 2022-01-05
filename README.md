@@ -1,4 +1,4 @@
-<!-- HITS! 부분 --> 
+<!-- HITS 부분 --> 
 
 <p align="right">
  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGeonyeong-Son%2FAiden%2Fhit-counter&count_bg=%236968AC&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=VISIT&edge_flat=false" />
