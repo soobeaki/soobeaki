@@ -36,14 +36,11 @@
  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
  <img src="https://img.shields.io/badge/JavaScript-F89B00?style=flat-square&logo=JavaScript&logoColor=white"/>
  <br/>
- <img src="https://img.shields.io/badge/React-00A3D2?style=flat-square&logo=react&logoColor=white"/>
- <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
- <br/>
- <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=node.js&logoColor=white"/>
- <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
- <br/>
+ <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+ <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
  <img src="https://img.shields.io/badge/AWS-232F32?style=flat-square&logo=Amazon AWS&logoColor=white"/>
- <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+ <br/>
+ <img src="https://img.shields.io/badge/React-00A3D2?style=flat-square&logo=react&logoColor=white"/>
 </p>
 
 #### Tools
