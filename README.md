@@ -22,12 +22,12 @@
 </p>
 
 <p>
- ✪ Hi there!  I'm <b> web developer</b> using React. <br/>
+ ✪ Hi there!  I'm <b> web developer</b> <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;I want to be a developer who records steadily in the future. ✩<br/>
  <br/>
- ✩ I was attracted to realizing my imagination into reality. <br/>
+<!-- ✩ I was attracted to realizing my imagination into reality. <br/>
  &nbsp;&nbsp;&nbsp;&nbsp;I value communication and feel rewarded for growing up with a team. ✪
-</p>
+</p> -->
 
 
 <!-- 기술 소개 부분 -->  
@@ -53,13 +53,13 @@
 <p>
  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
- <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>
 </p>
 
 <!--
  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
  <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat&logo=FileZilla&logoColor=white"/>
  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/>
 -->
 
 
