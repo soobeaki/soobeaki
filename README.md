@@ -23,9 +23,9 @@
 
 <p>
  ✪ Hi there!  I'm <b> web developer</b> <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;I want to be a developer who records steadily in the future. ✩<br/>
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;I want to be a developer who records steadily in the future. ✩<br/>
  <br/>
-<!-- ✩ I was attracted to realizing my imagination into reality. <br/>
+ ✩ I was attracted to realizing my imagination into reality. <br/>
  &nbsp;&nbsp;&nbsp;&nbsp;I value communication and feel rewarded for growing up with a team. ✪
 </p> -->
 
