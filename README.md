@@ -22,7 +22,7 @@
 </p>
 
 <p>
- ✪ Hi there!  I'm <b> web developer</b> <br/>
+ ✪ Hi there!  <br/> <!-- I'm <b> web developer</b> -->
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;I want to be a developer who records steadily in the future. ✩<br/>
  <br/>
  ✩ I was attracted to realizing my imagination into reality. <br/>
