@@ -8,8 +8,8 @@
 <!-- 소개 부분 --> 
 
 <p>
-  <a href="mailto:thsrjs5@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/thsrjs5@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+  <a href="mailto:pro.aiden.son@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/pro.aiden.son@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
  <!--
   <a href="https://lienkooky.notion.site/71bf521e9c6b4900820503425769197b" target="_blank">
