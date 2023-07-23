@@ -19,6 +19,7 @@
   <a href="https://lienkooky.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/Blog-D08789?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/>
   </a>
+ -->
 </p>
 
 <p>
