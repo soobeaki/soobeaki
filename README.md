@@ -24,7 +24,7 @@
 </p>
 
 <p>
- ✪ Hi there!  <br/> <!-- I'm <b> web developer</b> -->
+ ✪ I'm Web Developer  <br/>
 <!-- &nbsp;&nbsp;&nbsp;&nbsp;I want to be a developer who records steadily in the future. ✩<br/>
  <br/>
  ✩ I was attracted to realizing my imagination into reality. <br/>
@@ -36,9 +36,10 @@
 
 #### Languages & Platforms
 <p>
+ <img src="https://img.shields.io/badge/React-00A3D2?style=flat-square&logo=react&logoColor=white"/>
  <img src="https://img.shields.io/badge/JavaScript-F89B00?style=flat-square&logo=JavaScript&logoColor=white"/>
- <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
- <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
+ </br> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+ </br> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/>
 </p>
 <!--
  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -47,9 +48,11 @@
  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
  <img src="https://img.shields.io/badge/AWS-232F32?style=flat-square&logo=Amazon AWS&logoColor=white"/>
  <br/>
- <img src="https://img.shields.io/badge/React-00A3D2?style=flat-square&logo=react&logoColor=white"/>
+ 
 -->
 
+
+<!--
 #### Tools
 <p>
  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
@@ -57,7 +60,6 @@
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 </p>
 
-<!--
  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
  <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat&logo=FileZilla&logoColor=white"/>
  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
