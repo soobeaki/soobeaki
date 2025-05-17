@@ -1,6 +1,7 @@
 <!-- HITS 부분 --> 
+<!-- 서버종료 25.05.17 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGeonyeong-Son%2FAiden%2Fhit-counter&count_bg=%236968AC&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=VISIT&edge_flat=false" /> -->
 <p align="right">
- <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGeonyeong-Son%2FAiden%2Fhit-counter&count_bg=%236968AC&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=VISIT&edge_flat=false" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=soobeaki&left_color=#ffffff&right_color=#ffffff" alt="visitors"/>
 </p>
 
 
@@ -12,8 +13,8 @@
 </p>
 -->
 
- 
- <!--
+
+<!--
 <p>
   <a href="mailto:pro.aiden.son@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/pro.aiden.son@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
@@ -25,10 +26,7 @@
     <img src="https://img.shields.io/badge/Blog-D08789?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/>
   </a>
 </p>   
- -->
-
-
-
+-->
 
 
 <!-- 기술 소개 부분 -->  
@@ -56,6 +54,7 @@
  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 </p>
+
 
  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
  <img src="https://img.shields.io/badge/FileZilla-BF0000?style=flat&logo=FileZilla&logoColor=white"/>
